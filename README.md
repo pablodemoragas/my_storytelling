@@ -1,4 +1,4 @@
-[Repositorio del equipo]([URL_DEL_REPOSITORIO](https://github.com/carmeenlopez/sorprendida/blob/main/README.md))
+[Repositorio del equipo]([https://github.com/carmeenlopez/sorprendida/blob/main/README.md])
 
 # Proyecto Storytelling (template): 
 ### my_storytelling
