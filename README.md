@@ -38,6 +38,7 @@ Tipo/Género:
 
 Nombre: 
 
+[Repositorio del equipo]([https://github.com/carmeenlopez/sorprendida/blob/main/README.md])
 
 ### Historia
 
